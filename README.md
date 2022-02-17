@@ -1,4 +1,10 @@
-### Hi there 👋
+### Greetings, fellow meatbag!
+
+<img src="prez_butt.jpg" alt="Funny meme pic" title="I have more in common with Robotnik than Sonic these days." width=300px height=300px>
+
+I'm just a guy who likes to code and solve problems that computers need help with - if only for my own machinations.<br>
+You can visit my website [here](https://hexadeci-male.github.io) if you want.<br>
+😄 More to come as needed! 😄
 
 <!--
 **hexadeci-male/hexadeci-male** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
