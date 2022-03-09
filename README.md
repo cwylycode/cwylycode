@@ -50,7 +50,7 @@ These are the languages, software, and frameworks I've used over time with varin
 
 <h2>💬 Throw some words at my face! 💬</h2>
 
-Feel free to go ahead and give me a shout through one of the above contact methods (and be sure to check out my website!). I'm available for hire to work on some cool/innovative/wacky/etc projects.
+Feel free to go ahead and give me a shout through one of the above contact methods (and be sure to check out [my website!](https://cwylycode.github.io)). I'm available for hire to work on some cool/innovative/wacky/etc projects.
 
 
 
