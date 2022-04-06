@@ -12,7 +12,7 @@
 
 <h2>⚡ About ⚡</h2>
 
-Hi! 👋 My name is !name! and I'm just a guy who likes to code and solve problems that computers need help with - if only for my own machinations (usually). When I'm not busy making useful/awesome/bizarre apps and such, I like to browse the internet, play video games, and (gasp!) go outside. Take a look around at my GitHub repositories - you might find stuff you'll like! 😄
+Hi! 👋 My name is Colin Wyly and I'm just a guy who likes to code and solve problems that computers need help with - if only for my own machinations (usually). When I'm not busy making useful/awesome/bizarre apps and such, I like to browse the internet, play video games, and (gasp!) go outside. Take a look around at my GitHub repositories - you might find stuff you'll like! 😄
 
 <br>
 <br>
