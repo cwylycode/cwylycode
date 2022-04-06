@@ -3,7 +3,7 @@
 <p align="center"><img src="prez_butt.jpg" alt="Funny meme pic" title="I feel I have more in common with Robotnik than Sonic these days, amirite?" width=300px height=300px></p>
 
 <p align="center">
-  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-C20A0A?logo=internetexplorer&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://cwylycode.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-C20A0A?logo=internetexplorer&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="Mail" src="https://img.shields.io/badge/Mail-28C20A?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
