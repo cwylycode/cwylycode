@@ -35,15 +35,18 @@ Hi! 👋 My name is Colin Wyly and I'm just a guy who likes to code and solve pr
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
 </p>
 
-These are the languages, software, and frameworks I've used over time with varing degrees of proficiency. I've worked with hardware such as the RaspberryPi and used them for electronics projects and have even run servers for personal use off of them. I also have a decent background in **Game Development**, **Office Software**, **IT Technical Support** and **Pentesting/Hacking**.
+These are the languages, software, and frameworks I've used over time with varying degrees of proficiency. I've also worked with hardware such as the RaspberryPi and used them for electronics projects and have even run servers for personal use off of them. Further more, I have a decent background in **Game Development**, **Office Software**, **IT Technical Support** and **Pentesting/Hacking**.
 
 <br>
 <br>
