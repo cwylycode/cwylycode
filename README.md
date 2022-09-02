@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="https://cwylycode.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-C20A0A?logo=internetexplorer&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="Mail" src="https://img.shields.io/badge/Mail-28C20A?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/cwylycode"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <h3 align="center">Tech Enthusiast, Developer, Coder, Designated 'Weirdo'</h4>
